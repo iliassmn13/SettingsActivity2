@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">SettingsActivity</string>
-    <string name="lux_label">LUX (Lumens):</string>
-    <string name="color_temp_label">Color Temperature (Kelvin):</string>
-</resources>
